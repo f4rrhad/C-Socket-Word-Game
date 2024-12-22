@@ -34,7 +34,7 @@ gcc -o main wwf4.c -lpthread
 
 ./main
 
-
+2of12.txt is the dictionary that the program uses you can update it as you wish.
 
 Future Improvements:
 	•	Enhanced gameplay mechanics with additional word challenges.
